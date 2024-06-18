@@ -387,5 +387,4 @@ The ML model API provides product recommendation system, product list based on s
     "Cucumber Gel Mask Extreme Detoxifying Hydrator"
 }
 ```
-#   c c - a u t h - a p i  
- 
+#
