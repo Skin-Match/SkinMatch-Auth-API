@@ -1,5 +1,5 @@
 # Architecture Overview
-![CLOUD-APPv2](https://github.com/nabilmakarim11111/CloudComputing-GO/assets/93192525/4cdcbf7c-af23-4af0-bc9e-5974f7ce7762)
+![architecture drawio](https://github.com/nabilmakarim11111/cc-auth-api/assets/93192525/ee501cb0-c4ed-4647-9501-c3e6367b01d5)
 -
 # Deploy Link
 Database (Auth API): https://auth-api-dczyyawmja-et.a.run.app
